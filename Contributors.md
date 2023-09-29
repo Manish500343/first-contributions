@@ -1,5 +1,5 @@
 # Contributors
-- [1amkaizen](https://github.com/1amkaizen)
+- [Manish Kumar](https://github.com/Manish500343)
 - [Harshal Patil](https://github.com/HarshalRajendraPatil)
 - [Mayank Gupta](https://github.com/mayankg-me)
 - [Vaibhav Patil](https://github.com/VaibhavAPatil)
